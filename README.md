@@ -3,7 +3,7 @@
 ## Description
 6,924 Images – Illegal Roadside Booth Data. The collection scenes include roadside, snack street, shop entrance, etc. The data diversity includes multiple scenes, different time periods(day, night), different photographic angles. This data can be used for tasks such as urban refined management.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1192?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1192?source=Github
 
 
 ## Data size
